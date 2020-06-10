@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReaderAssistant</string>
+    <string name="readerassistant">ReaderAssistant</string>
+    <string name="x">X</string>
+    <string name="version_1_0">version 1.0</string>
+    <string name="developed_by_asv_technologies">Developed by: ASV Technologies</string>
+</resources>

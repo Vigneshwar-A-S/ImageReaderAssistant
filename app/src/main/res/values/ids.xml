@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageIv" type="id">
+
+    </item>
+    <item name="resultEt" type="id">
+
+    </item>
+
+    <item name="textView5" type="id">
+    </item>
+
+</resources>
